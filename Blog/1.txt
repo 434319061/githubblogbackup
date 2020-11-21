@@ -1,0 +1,5 @@
+hexo s 开始
+hexo n 生成新文章
+hexo clean 清理
+hexo g 生成
+hexo d 部署
